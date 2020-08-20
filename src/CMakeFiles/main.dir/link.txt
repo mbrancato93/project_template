@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -Wall -O0 -g  -rdynamic CMakeFiles/main.dir/blank_main.c.o  -o ../bin/Debug/main 
